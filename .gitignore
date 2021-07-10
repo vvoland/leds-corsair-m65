@@ -1,0 +1,6 @@
+.*.cmd
+*.o
+.ccls-cache
+Module.symvers
+*.ko
+*.mod
